@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+  transition: .6s ease;
+}
+body{
+  width: 100%;
+  background: #82A0FF;
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.5em;
+}
+#weather{
+  width: 70%;
+  height: auto;
+  margin: 20px auto;
+  text-align: center;
+}
